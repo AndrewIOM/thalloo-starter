@@ -95,9 +95,22 @@
                 "Hex": "015ce6"
             },
             {
-                "Name": "3 Carbon Dioxide",
+                "Name": "FARMSTEAD",
                 "Hex": "ff2fc5"
+            },
+            {
+                "Name": "FALSE",
+                "Hex": "FFFFFF"
+            },
+             {
+                "Name": "TRUE",
+                "Hex": "FF0000"
+            },
+            {
+                "Name": "NOT ENOUGH INFORMATION",
+                "Hex": "000000"
             }
+
         ]
     }]
 }
